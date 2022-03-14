@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 3rem;
+  background-color: #629deb;
+}
+
+#prodi {
+  background-color: #629deb;
+}
+
+section {
+  padding-top: 5rem;
+}
+.navbar.scrolled {
+  background-color: white;
+  transition: background-color 0.5s ease;
+  box-shadow: 0px -10px 30px #666;
+}
+.navbar.scrolled a.nav-link {
+  color: #666;
+}
+.main-nav.navbar-nav.nav-link.active {
+  color: #ffc300;
+}
